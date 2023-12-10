@@ -1,0 +1,40 @@
+body{
+    padding: 50px 0px 50px 200px;
+    display: flex;
+}
+.red{
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2F6UgEjh8Xuts4nwdWzTnWH8QtLuHqRMUB7dp24JYVE2xcYzq4HA8hFfcAbU-R-PC_9uA1&tbnid=i7MoRy5G8Xd9xM&vet=12ahUKEwjM57nMj4WDAxUiHxAIHfElC44QMygAegQIARBF..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5700313618786177705%26hl%3Dru%26gl%3DUS&docid=CDfuDc3fnee3AM&w=512&h=512&q=google&ved=2ahUKEwjM57nMj4WDAxUiHxAIHfElC44QMygAegQIARBF
+    );
+    width: 200px;
+    height: 25px;
+    background-color: white;
+}
+h1{
+    width: 450px;
+}
+p{
+    width: 450px;
+}
+.tez{
+    margin: 10px;
+    width: 450px;
+}
+.blue{
+margin-left: 205px;
+width: 200px;
+}
+.ten{
+    width: 450px;
+}
+.yet{
+    width: 450px;
+}
+.tey{
+    width: 450px;
+}
+.container1{
+width: 50%;
+}
+.container2{
+width: 50%;
+}
